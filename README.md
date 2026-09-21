@@ -47,15 +47,15 @@ Currently, I lead the technical development of an AI-based system for multiclass
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🩺 Diabetic Retinopathy AI System
+### Diabetic Retinopathy AI System
 
 Artificial intelligence system for multiclass diabetic retinopathy classification using retinal fundus images.
 
 **Highlights**
 
-- EfficientNet Transfer Learning
+- EfficientNet and EfficientNet V2 Transfer Learning
 - Grad-CAM Explainability
 - Medical Image Processing
 - Probability Calibration
